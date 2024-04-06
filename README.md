@@ -26,6 +26,7 @@ print(c)
 ```
 
 ## Output:
+![alt text](<Screenshot 2024-04-06 150931.png>)
 
 ## Result: 
 Thus the solutions for the linear equations are successfully solved using python program
